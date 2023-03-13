@@ -1,5 +1,5 @@
 package rpg;
 
 public enum Core {
-    //blabla
+    //blabla test
 }
